@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "bootstrap": "^5.2.3",
+    "internal-ip": "^7.0.0",
+    "react-bootstrap": "^2.7.4",
+    "react-spinners": "^0.13.8"
+  }
+}

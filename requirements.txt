@@ -1,0 +1,26 @@
+
+Django==4.2
+django-cors-headers==3.14.0
+djangorestframework==3.14.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl#sha256=0964370218b7e1672a30ac50d72cdc6b16f7c867496f1d60925691188f4d2510
+es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0-py3-none-any.whl#sha256=13b909bac0de5f5338f4327b14a9cc9736cf51f07131a3cfcb688dbeb8608bdd
+langcodes==3.3.0
+MarkupSafe==2.1.2
+nltk==3.8.1
+numpy==1.24.3
+opencv-python==4.7.0.72
+packaging==23.1
+pathy==0.10.1
+Pillow==9.5.0
+pytesseract==0.3.10
+pytz==2023.3
+regex==2023.3.23
+spacy==3.5.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+sqlparse==0.4.4
+srsly==2.4.6
+thinc==8.1.9
+typer==0.7.0
+typing_extensions==4.5.0
+wasabi==1.1.1
